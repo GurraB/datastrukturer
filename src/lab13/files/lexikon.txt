@@ -1,0 +1,12 @@
+vit,white
+säng,bed
+blå,blue
+grön,green
+dator,computer;
+hus,house
+springa,run
+röd,red
+svart, black
+snö,snow
+hej,hello
+gul,yellow
